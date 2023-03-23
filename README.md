@@ -3,7 +3,7 @@
 <div align=center><h3>가로수길 닥터스 피부과</h3></div>
 
 <div align=center>
-<img src="./img/doctors.png" width="600px" height="auto" alt="가로수길 닥터스 클론코딩">
+<img src="./img/responsisve_doctors.png" width="600px" height="auto" alt="가로수길 닥터스 클론코딩">
 </div>
 
 
