@@ -11,7 +11,7 @@
 <h2>💻 Clone Coding </h2>
 
 **가로수길 닥터스 피부과의 클론코딩 사이트입니다.** <br> GD WEB(지디웹) 선정작이며 반응형으로 제작하였습니다. <br> 
-Scrolla.js와 Slick.js를 사용하였습니다. <br>반응형에 따른 가변동영상 레이아웃 공부에 도움이 되었습니다.
+Scrolla.js와 Slick.js를 사용하였습니다.
 
 </div>
 
