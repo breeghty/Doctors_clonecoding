@@ -102,8 +102,13 @@ color:#fff;}
 /* section.visual */
 /* .visual{width: 100%; height: 940px; position:relative;} */
 .visual{width: 100%; height: 940px; position:relative;}
-
-.visual .slide li{position:relative; }
+.visual .slide{
+    position:absolute;
+    overflow: hidden; 
+    width:100%;
+    height:100%;
+}
+.visual .slide li{position:relative; width:100%; }
 .visual .slide li img{display:block; width: 100%;}
 .visual .slide li .txt{position:absolute; left:145px; bottom:15%; color:#fff;}
 .visual .slide li .txt p{font-size:19px;transform:translateX(1%); z-index:1; letter-spacing: 6px;}
